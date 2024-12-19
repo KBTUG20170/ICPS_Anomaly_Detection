@@ -1,1 +1,3 @@
 This project is aimed at building a simulated industrial cyber physical system using the Electra dataset, training an SVM model on it for predicting anomalous points in the dataset, processing and predicting the labels of a simulated stream of incoming data points and showing the output in the form of a dashboard. 
+
+Real-time demo video: https://drive.google.com/file/d/1_cZAyXpH7BtYIaRtjKg-oUzgDQKASRv7/view?usp=sharing
